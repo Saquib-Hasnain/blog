@@ -117,15 +117,6 @@ This will start the React app on `http://localhost:3000`.
 - Admin users can create, update, and delete blog posts from the Admin Dashboard.
 - Users can view a list of blog posts.
 
-## Example User
-
-**Admin**
-- Email: `admin@example.com`
-- Password: `admin123`
-
-**Regular User**
-- Email: `user@example.com`
-- Password: `user123`
 
 ## Notes
 
